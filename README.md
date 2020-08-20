@@ -3,6 +3,8 @@
 
 > The [Neelkanth Dabhi](http://neelkanthjdabhi.github.io/) CLI (aka the most useless Node module ever published, in history, by anyone, ever).
 
+<p align="center"><img src="https://raw.githubusercontent.com/neelkanthjdabhi/cli/master/demo.png" width="700"></p>
+
 
 ## Usage
 
