@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 @neelkanthjdabhi/cli [![npm (scoped)](https://img.shields.io/npm/v/@neelkanthjdabhi/cli?color=ff69b4&logo=npm)](https://www.npmjs.com/package/@jakejarvis/cli) ![npm (scoped)](https://img.shields.io/github/languages/top/neelkanthjdabhi/cli.svg)
+# 🧑🏻‍💻 @neelkanthjdabhi/cli [![npm (scoped)](https://img.shields.io/npm/v/@neelkanthjdabhi/cli?color=ff69b4&logo=npm)](https://www.npmjs.com/package/@neelkanthjdabhi/cli) ![npm (scoped)](https://img.shields.io/github/languages/top/neelkanthjdabhi/cli.svg)
 
 
 > The [Neelkanth Dabhi](http://neelkanthjdabhi.github.io/) CLI (aka the most useless Node module ever published, in history, by anyone, ever).
