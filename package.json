@@ -1,0 +1,75 @@
+{
+  "name": "@neelkanthjdabhi/cli",
+  "version": "1.0.7",
+  "description": "The Neelkanth Dabhi CLI",
+  "homepage": "https://neelkanthjdabhi.github.io/",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "ndabhi",
+    "NeelkanthDabhi",
+    "Neelkanth",
+    "portfolio",
+    "useless"
+  ],
+  "author": {
+    "name": "Neelkanth Dabhi",
+    "email": "neelkanth@dal.ca",
+    "url": "https://neelkanthjdabhi.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelkanthjdabhi/cli.git"
+  },
+  "engines": {
+    "node": "^10 || ^12 || ^14"
+  },
+  "files": [
+    "src/*"
+  ],
+  "bin": {
+    "jakejarvis": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "npm run cli.js",
+    "test": "eslint ./src/*.js"
+  },
+  "dependencies": {
+    "import-jsx": "^4.0.0",
+    "ink": "^2.7.1",
+    "ink-big-text": "^1.1.0",
+    "ink-gradient": "^1.0.0",
+    "ink-select-input": "^3.1.1",
+    "meow": "^7.0.1",
+    "open": "^7.1.0",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8"
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended",
+      "plugin:react-hooks/recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2017,
+      "sourceType": "module"
+    },
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
+    },
+    "publishConfig": {
+      "access": "public"
+    }
+  }
+}
