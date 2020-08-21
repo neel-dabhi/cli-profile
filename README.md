@@ -6,13 +6,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/neelkanthjdabhi/cli/master/demo.png" width="700"></p>
 
 
-## Usage
+## :computer: Usage
 
 ```sh
 $ npx @neelkanthjdabhi/cli
 ```
 
-## Built with
+## :hammer: Built with
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 - [meow](https://github.com/sindresorhus/meow) - CLI helper
@@ -28,7 +28,7 @@ $ npx @neelkanthjdabhi/cli
 This project is under the MIT license. See the [LICENSE](https://github.com/neelkanthjdabhi/cli/blob/master/LICENSE) for more information.
 
 ---
-## Inspired by
+## :pray: Inspired by
 
 - [@jakejarvis](https://github.com/jakejarvis)
 
