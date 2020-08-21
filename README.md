@@ -28,5 +28,10 @@ $ npx @neelkanthjdabhi/cli
 This project is under the MIT license. See the [LICENSE](https://github.com/neelkanthjdabhi/cli/blob/master/LICENSE) for more information.
 
 ---
+## Inspired by
+
+- [@jakejarvis](https://github.com/jakejarvis)
 
 Made with ❤️ by Neelkanth Dabhi 👋🏼 [Get in touch!](https://www.linkedin.com/in/neelkanthjdabhi/)
+
+
